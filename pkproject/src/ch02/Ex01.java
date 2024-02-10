@@ -6,7 +6,7 @@ public class Ex01 {
 		
 		String A = "pumpkin";
 		
-		String B = "juice";
+		String B = "juice!";
 		
 		System.out.println(A + B);
 		
