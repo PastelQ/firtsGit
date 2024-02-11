@@ -1,4 +1,4 @@
-package Ch10_Poly;
+package Ch10_Polymorphism;
 
 public class Poly011_main {
 	

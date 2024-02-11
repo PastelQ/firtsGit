@@ -1,9 +1,12 @@
-package Ch10_Poly;
+package Ch10_Polymorphism;
 
 public class Poly023_Cat extends Poly022_AbstractAnimal{
 	
 	/*만약 022 Animal를 extend하고 추상 메서드를 오버라이드하지 않을 경우
 	컴파일 오류가 발생함*/
+	
+	/* 제약 2: 자식클래스가 오버라이딩할 메서드를 실수로 오버라이딩하지 않을 경우
+	사전 방지*/
 	
 	@Override
 	public void sound(){

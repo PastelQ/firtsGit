@@ -1,4 +1,4 @@
-package Ch10_Poly;
+package Ch10_Polymorphism;
 
 public class Poly016_main2 {
 	/*해 같은 타입을 가져 배열을 이용하여 

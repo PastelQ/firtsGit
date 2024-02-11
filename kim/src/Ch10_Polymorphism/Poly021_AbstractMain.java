@@ -1,4 +1,4 @@
-package Ch10_Poly;
+package Ch10_Polymorphism;
 //메인 메서드
 /*추상 클래스, 메서드는 동물 등 추상적인 개념을 제공(구체적인 고양이, 강아지 등이
   아닌 동물, 탈 것 등)*/

@@ -1,4 +1,4 @@
-package Ch10_Poly;
+package Ch10_Polymorphism;
 
 //추상클래스, 추상 메서드를 하나라도 포함하고 있으면 추상 클래스로 지정 필요
 public abstract class Poly022_AbstractAnimal {

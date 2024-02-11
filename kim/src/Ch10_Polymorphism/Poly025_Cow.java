@@ -1,7 +1,7 @@
-package Ch10_Poly;
+package Ch10_Polymorphism;
 
-public class Poly024_Dog extends Poly022_AbstractAnimal{
-	
+public class Poly025_Cow extends Poly022_AbstractAnimal{
+
 	/*만약 022 Animal를 extend하고 추상 메서드를 오버라이드하지 않을 경우
 	컴파일 오류가 발생함*/
 	
@@ -10,6 +10,6 @@ public class Poly024_Dog extends Poly022_AbstractAnimal{
 	
 	@Override
 	public void sound() {
-		System.out.println("멍멍");
+		System.out.println("음메");
 	}
 }
