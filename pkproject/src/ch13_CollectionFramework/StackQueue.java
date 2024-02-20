@@ -1,4 +1,4 @@
-package Collection;
+package ch13_CollectionFramework;
 
 import java.util.LinkedList;
 import java.util.Queue;
